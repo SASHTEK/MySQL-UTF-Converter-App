@@ -8,10 +8,13 @@ The UTF Converter App is a lightweight C# tool for developers and DB admins to c
 
 ## File Types can be converted
 
-<p> utf8mb4_0900_ai_ci
-utf8mb4_unicode_ci
-utf8_general_ci
----
-CHARSET=utf8
-CHARSET=utf8mb4 </p>
+<p> 
+<ul>
+  <li>utf8mb4_0900_ai_ci</li>
+  <li>utf8mb4_unicode_ci</li>
+  <li>utf8_general_ci</li>
+  <li>CHARSET=utf8</li>
+  <li>CHARSET=utf8mb4</li>
+</ul>
+</p>
  
